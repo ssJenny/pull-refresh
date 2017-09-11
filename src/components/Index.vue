@@ -13,7 +13,6 @@
 <script>
 
   import Vue from 'vue'
-  import BScroll from 'better-scroll'
   import VueScroller from 'vue-scroller'
   Vue.use(VueScroller)
 export default {
@@ -70,8 +69,6 @@ export default {
         done()
       }, 1500)
     }
-
-
   },
 
 
